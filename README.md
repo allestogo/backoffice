@@ -1,2 +1,5 @@
-# atg-electron
-De Alles to go Electron app voor Windows &amp; MacOS
+# Backoffice
+
+Alles to go backoffice applicatie voor Windows
+
+https://backoffice.allestogo.app
